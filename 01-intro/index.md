@@ -1,5 +1,5 @@
 ---
-title: Intro
+title: The beginning
 ---
 
-[Blackberries](01-blackberries.md)!
+Jerry's mother needs some [blackberries](01-blackberries.md).
