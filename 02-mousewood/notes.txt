@@ -8,9 +8,21 @@ ITEMS:
 - Very dry cupcake from talking to Anja Mouse in the pharmacy
 - Old fence picket from the Edge of Town, next to the river
 
-- Crow feather from the swamp
+- Ad for violin lessons from backpack mouse when saving ursula
+- Grappling hook from saving Ursula
+- Crow feather from the swamp from saving Ursula
+
 - Marsh Marigold from the swamp
 - Fish scale from the fish statue at the lower path of the other side of the brook
+
+- Stuff from plato after saving Ursula
+ - Perfumed letter
+ - Magical letter
+ - Package
+ - Heavy well-packed package
+
+- silvery spoon after chasing the greenhat
+- leprechaun cobal after chasing the greenhat
 
 PLACES:
 - City Wall
