@@ -24,6 +24,12 @@ ITEMS:
 - silvery spoon after chasing the greenhat
 - leprechaun cobal after chasing the greenhat
 
+- Full blue juice keg from the swamp, use the coin in the thread to get it
+- Blue juice sticker
+
+- Full blue juice keg from the swamp, use the coin in the thread to get it
+- Blue juice sticker from the keg
+
 PLACES:
 - City Wall
  - Gunners and guards with pea shots
@@ -100,3 +106,7 @@ The hedgehog brothers are missing their tools
  - Follow him to the Behind Town Hall area and see him again
  - Block his way
  k
+
+Setting sail
+- rudder and anchor
+- remove the catfish
