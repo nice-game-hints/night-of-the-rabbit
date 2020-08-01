@@ -21,4 +21,4 @@ Violin?
 Give Anja (at the Cafe) the violin teaching flyer you got from the backpack mouse.
 
 # Gave it
-Get back to the boat.
+Get back to the boat and sail downstream.

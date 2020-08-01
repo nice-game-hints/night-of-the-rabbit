@@ -30,6 +30,8 @@ ITEMS:
 - Full blue juice keg from the swamp, use the coin in the thread to get it
 - Blue juice sticker from the keg
 
+- Indian pepper from Spitzweg after sailing
+
 PLACES:
 - City Wall
  - Gunners and guards with pea shots
