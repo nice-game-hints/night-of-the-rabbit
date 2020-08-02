@@ -3,8 +3,8 @@ title: Sailing with Spitzweg
 keywords: boat, tools, catfish, rudder, anchor
 ---
 
-Spitzweg is setting sail as soon as the boat is ready. You can join him.
-[Help the Hedgehog brothers to build the boat.](080-tools.md)
+Spitzweg (the adventuring squirrel) is setting sail as soon as the boat is ready. You can join him.
+[Help the Hedgehog brothers to build the boat.](070-boat.md)
 
 # The boat is ready!
 Does it have:
