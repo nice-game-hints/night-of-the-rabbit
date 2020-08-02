@@ -6,7 +6,7 @@ keywords: snail, seal, plato, stamp
 The envelope containgin the old invitation must be sealed.
 
 # With what?
-You will find something to use for that when you [get to the dwarf home back door](150-dwarves-house.md).
+You will find something to use for that when you [get to the dwarf home back door](140-find-house.md).
 
 # I am there
 Look around...

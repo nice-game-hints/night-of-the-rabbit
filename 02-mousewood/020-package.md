@@ -8,5 +8,5 @@ Edith is waiting for a package. Plato the frog should deliver it.
 # Where is he?
 [Finding Plato.](018-plato.md)
 
-# I have the package
+# I have her package
 Give the pink package to Edith. You get a tip!

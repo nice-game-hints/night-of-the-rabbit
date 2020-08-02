@@ -9,10 +9,20 @@ You would need to send the invitation letters to everyone in Mousewood. Marquis 
 It starts with [finding Plato](018-plato.md). Deliver the perfumed letter.
 
 # To whom?
-To Ludwig, the DJ at the Cafe table. He will leave the envelope on the table.
+To Ludwig, the DJ at the Cafe table. He will leave the envelope on the table. Take it.
 
-# I have it
-Combine the old invitation into the envelope. Plato only accepts [sealed](190-seal.md) and stamped ^[ After it is sealed, use the magic stamp on it ] envelopes, though. You also need to [deliver all the packages](025-delivery.md) you got from Plato before he will deliver the invitations.
+# I have the envelope
+Combine the old invitation into the envelope. Stamp it. ^[ Stamp it with the magic stamp you got from Marquis.]
+
+# It has to be sealed
+Plato only accepts [sealed](190-seal.md) and stamped envelopes.
+
+# Sealed!
+Stamp it with the magic stamp you got from Marquis.
+
+# Whoa!
+You have giant pile of invitations.
+You also need to [deliver all the packages](025-delivery.md) you got from Plato before he will deliver the invitations.
 
 # I have delivered them
 Great! Give the giant pile of invitations to him to get them delivered.
