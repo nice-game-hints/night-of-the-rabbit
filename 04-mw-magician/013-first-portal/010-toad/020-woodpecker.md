@@ -14,5 +14,5 @@ You have your trusty weapon with you?
 # My weapon?
 The stick. Use the stick on the woodpecker.
 
-# Knock?
-Talk with it for a while. It will fly away.
+# Pock?
+Talk with it for a while by using the "Pock" options. It will fly away.
