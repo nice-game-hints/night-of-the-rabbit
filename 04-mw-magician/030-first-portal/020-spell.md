@@ -1,0 +1,21 @@
+---
+title: Talking with the toad
+keywords: wake, rockwhisper, spell
+---
+
+You have [woken the toad up](010-toad/index.md). Now talk with it to learn your first spell.
+
+# It only talks about...
+...streams of time. Yes.
+
+# What should I say?
+First, talk about anything. Second, ask it about streams of time ^[ "The streams of time?" ].
+
+# Then?
+I think whispering rocks are quite interesting ^[ "The whispering of the rocks?" ].
+
+# Once more
+So, click on these options:
+   - Say anything... (like, "I'm Jerry Hazelnut...")
+   - "The streams of time?"
+   - "The whispering of the rocks?"
