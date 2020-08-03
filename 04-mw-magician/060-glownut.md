@@ -12,4 +12,4 @@ They are expensive, yes. You would have to belong to an influential family, like
 Maybe getting into their family is too much. Maybe it is enough to [get into their party](050-party.md)
 
 # I got invited into the party!
-Great! It is a great party. And there are those party lights.
+**(night)** Great! It is a great party. And there are those party lights. Grab yourself a glownut. But be careful, if you spill the juice there will be fireflies everywhere.

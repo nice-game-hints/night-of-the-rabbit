@@ -12,4 +12,7 @@ Did you ask "What are you celebrating?"
 They are waiting for Anja to make them a cake. **(day)** You should go ask Anja about the cake in the Cafe.
 
 # A cake
-[Get the ingredients to Anja.](055-cake/index.md)
+[Get the cake from Anja.](055-cake/index.md)
+
+# I have the cake
+**(night)** Give the cake to the grumpy gardener to get access into the party. You get a trophy from the party goer.

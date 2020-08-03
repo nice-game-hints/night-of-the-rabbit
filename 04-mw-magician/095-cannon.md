@@ -22,3 +22,12 @@ Well, you cannot shoot the peas. I can recommend one ammo over others.
 
 # What?
 [Glownuts!](060-glownut.md)
+
+# I have a glownut!
+Oh! Shoot one with the cannon! Beautiful, isn't it!
+
+# He is not shooting...
+You need a reason to light up the whole area up.
+
+# What reason?
+Go seek [the portals](015-second-portal/index.md).
