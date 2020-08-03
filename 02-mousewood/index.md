@@ -1,5 +1,5 @@
 ---
-title: Arranging the Treetop Festival
+title: Preparing the Treetop Festival
 keywords: invitation, party, festival, treetop, treeleaper
 ---
 

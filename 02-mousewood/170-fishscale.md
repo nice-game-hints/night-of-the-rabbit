@@ -2,7 +2,7 @@
 title: Finding a fish scale
 ---
 
-[The prescription for the dwarf](160-help-dwarf.md) needs fish scale.
+[The prescription for the dwarf](160-help-dwarf.md) needs a fish scale.
 
 # Where to?
 The important place is the other side of the brook with the view to Mousewood gates.

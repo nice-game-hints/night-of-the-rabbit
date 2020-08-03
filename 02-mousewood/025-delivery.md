@@ -3,7 +3,7 @@ title: Delivering the mail
 keywords: plato, package, edith, letter
 ---
 
-When you [find Plato](018-plato.md) he can't deliver the packages. You can do it!
+When you [find Plato](018-plato.md) he can't deliver the packages. You can do it! Just pick up the packages from him.
 
 # What and where?
 There are two packages and two letters.

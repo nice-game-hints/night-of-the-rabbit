@@ -9,5 +9,5 @@ There is a coffee maker in the Treetrunk Cafe.
 You would need [a mug](045-mug.md).
 
 # I have a mug!
-Use the mug on the coffee maker. You have a cup of coffee.
+Use the mug on the coffee maker. You have a cup of hot coffee.
 

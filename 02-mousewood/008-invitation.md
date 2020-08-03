@@ -21,8 +21,13 @@ Plato only accepts [sealed](190-seal.md) and stamped envelopes.
 Stamp it with the magic stamp you got from Marquis.
 
 # Whoa!
-You have giant pile of invitations.
+You have giant pile of invitations. Give them to Plato.
+
+# His bike
+His bike is frozen. [Unfreeze it, first.](060-bike.md)
+
+# Bike is free
 You also need to [deliver all the packages](025-delivery.md) you got from Plato before he will deliver the invitations.
 
 # I have delivered them
-Great! Give the giant pile of invitations to him to get them delivered.
+Great! Give the giant pile of invitations to him to get them delivered. Go meet Marquis at the town hall.
