@@ -30,4 +30,4 @@ Naturally. Find something that you can use for that.
 There is a napkin on the edge of the cup with milk. Take it and use it on the drop of oil.
 
 # Oily napkin
-Now you can oil the metal arm and attach it to the bellows. Activate the cuckoo from the metal knob.
+Now you can oil the metal arm and attach it to the bellows. You get a key-shaped clock part. Interesting. Activate the cuckoo from the metal knob.
