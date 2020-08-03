@@ -19,3 +19,5 @@ So, click on these options:
    - Say anything... (like, "I'm Jerry Hazelnut...")
    - "The streams of time?"
    - "The whispering of the rocks?"
+
+You get your first spell. Try it on the odd crystal statue.
