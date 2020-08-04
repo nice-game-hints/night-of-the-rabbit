@@ -1,5 +1,5 @@
 ---
-title: Learning the spell
+title: Learning the second spell
 keywords: mood, bad, trophy, rainbow
 ---
 

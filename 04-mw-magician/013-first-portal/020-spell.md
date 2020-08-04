@@ -1,9 +1,9 @@
 ---
-title: Talking with the toad
+title: Learning the first spell.
 keywords: wake, rockwhisper, spell
 ---
 
-You have [woken the toad up](010-toad/index.md). Now talk with it to learn your first spell.
+You have [wake the toad up](010-toad/index.md). Now talk with it to learn your first spell.
 
 # It only talks about...
 ...streams of time. Yes.
