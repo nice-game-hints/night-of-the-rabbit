@@ -1,5 +1,5 @@
 ---
-title: Findin the dwarves home
+title: Finding the dwarves home
 keywords: sailing, blue juice, sick, dwarf
 ---
 
