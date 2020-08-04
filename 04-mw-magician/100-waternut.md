@@ -15,4 +15,4 @@ Go tell some really good jokes on the stage.
 You need [professional jokes](105-jokes.md). Mr. Churchmouse gives you a pen and paper to collect better jokes.
 
 # I have three full jokes!
-Nice. Go tell them to the audience.
+Nice. Go tell the genuine Mousewood jokes to the audience.

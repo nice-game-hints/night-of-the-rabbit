@@ -12,7 +12,7 @@ Great, now just hunt someone with jokes.
 Whooo, indeed.
 
 # You mean?
-Didn't Jonathan, at the town hall **(day)** try to tell a joke?
+Didn't Jonathan, at the town hall, during the day, try to tell a joke?
 
 # But Conrad
 He is blocking the jokes. Maybe you should approach Jonathan during the **night**.

@@ -1,5 +1,5 @@
 ---
-title: Will-o-wisps
+title: Will-o-wisp
 keywords: fox, field, rain
 ---
 
@@ -12,9 +12,12 @@ You would need some magic. [Go learn the spell from the second portal.](015-seco
 Oh, use it then. Make it rain on the eerie green light.
 
 # It's a...
-A fox! Follow it.
+A fox! Follow it to the radio station.
 
 # It gets just back to the fields
+The path to the swamp is flooded.
+
+# What gives?
 You have to [drain the flooded path](120-drain.md) for it to get where it wants to go.
 
 # Drained
