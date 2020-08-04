@@ -3,7 +3,7 @@ title: Saving Ursula
 keywords: crow, shoelace, ursula, radio
 ---
 
-You got [pass the bridge](050-humbert.md) to the swamp and Ursula is in trouble!
+You got [pass the bridge](010-humbert.md) to the swamp and Ursula is in trouble!
 
 # What to do?
 Look at the antenna. Maybe you could flick it to scare the bird away.

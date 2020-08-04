@@ -9,4 +9,4 @@ Every time a new treewalker enters the town a Treetop Festival is had. It is Jer
 
 The tasks are clear:
  - [Order some baked goods and blue juice](007-ordering.md)
- - [Send the invitations](008-invitations.md)
+ - [Send the invitations](008-invitation.md)

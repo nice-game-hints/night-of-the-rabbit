@@ -13,4 +13,4 @@ Use something else...
 The grappling hook. Use it on the ivy.
 
 # A bridge!
-Yeah. Now, [fix the clock](010-fix-clock/index.md).
+Yeah. Now, [fix the clock](010-fix-clock.md).

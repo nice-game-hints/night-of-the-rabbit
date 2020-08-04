@@ -24,4 +24,4 @@ Look around you from the rooftop. What do you see?
 And one of the cannons.
 
 # Interesting...
-[Use the cannon](095-cannon.md) to fire up the glownut to the tree branch. Point the cannon before shooting towards the tree branch. Then use the glownut on the cannon to light up the branch.
+[Use the cannon](../095-cannon.md) to fire up the glownut to the tree branch. Point the cannon before shooting towards the tree branch. Then use the glownut on the cannon to light up the branch.

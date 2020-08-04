@@ -9,5 +9,5 @@ Talk to Plato. He tells you that the four masked strangers have placed the citiz
 # He is free
 You got three bottles to capture the three masked strangers.
  - [Health lizard at town center.](020-health.md)
- - [Money lizard at town hall.](030-money.md)
+ - [Money lizard at town hall.](030-money/index.md)
  - [Luck lizard at the swamp.](040-luck/index.md)

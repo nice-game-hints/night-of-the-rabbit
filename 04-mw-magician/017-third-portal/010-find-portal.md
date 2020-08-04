@@ -19,7 +19,7 @@ A fox! Follow it to the radio station and further.
 
 # It gets just back to the fields
 The path to the swamp is flooded.
-You have to [drain the flooded path](120-drain.md) for it to get where it wants to go.
+You have to [drain the flooded path](../120-drain.md) for it to get where it wants to go.
 
 # The path is drained
 **(night)** Follow the fox to the swamp. You have to make it rain again on the fields and follow it to the swamp.

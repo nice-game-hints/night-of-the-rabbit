@@ -3,7 +3,7 @@ title: Fixing the clock
 keywords: oil, snoring, giant, magician
 ---
 
-You have [access to the clock](../005-getting-to-clock.md)?
+You have [access to the clock](005-getting-to-clock.md)?
 
 # I am there
 If you screw the metal knob the cuckoo will activate.
