@@ -3,7 +3,7 @@ title: Top of the town hall
 keywords: second portal, shamrock, green, man
 ---
 
-After you talk with the little green man he will meet you at the top of the town hall.
+**(night)** After you talk with the little green man he will meet you at the top of the town hall.
 
 # How do I get there?
 Break into the town hall. Just use the round window to get in.

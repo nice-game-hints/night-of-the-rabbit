@@ -3,7 +3,7 @@ title: Light the branch
 keywords: cannon, glownut, green, portal
 ---
 
-After you talk with the little green man he will meet you at the top of the town hall. The branch is blockin you as it is too bright.
+**(night)** After you talk with the little green man he will meet you at the top of the town hall. The branch is blockin you as it is too bright.
 
 # How to make more light?
 Have you seen how the town is light up? Talk to the guard at the magician's door about them.

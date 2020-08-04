@@ -11,7 +11,7 @@ Yes.. would that make him sleepy? [You can try,](090-sleepy-gunner.md)
 # On the contrary
 But you got [the access to Anja's Cafe](020-cafe-night.md), right?
 
-# Right
+# I can access the Cafe during night
 Could you make some kind of _anti-coffee_?
 
 # Anti-coffee?

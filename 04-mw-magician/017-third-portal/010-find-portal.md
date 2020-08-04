@@ -1,5 +1,5 @@
 ---
-title: Finding the portal
+title: Finding the third portal
 keywords: fox, wisp, field, swamp, rain, drain, greengrow
 ---
 
@@ -9,9 +9,9 @@ keywords: fox, wisp, field, swamp, rain, drain, greengrow
 That must be it. You should chase it away from the fields?
 
 # How?
-You have the new spell, right?
+You have the new spell, right? You get it from [the second portal](../015-second-portal/index.md).
 
-# I have
+# I have it
 Use the Greengrow spell on the light.
 
 # It's a...

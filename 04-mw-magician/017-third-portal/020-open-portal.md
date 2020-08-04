@@ -1,5 +1,5 @@
 ---
-title: Opening the portal
+title: Opening the third portal
 keywords: statue, rockwhisper, swamp
 ---
 

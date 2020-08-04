@@ -3,7 +3,8 @@ title: Four portals
 keywords: mousewood, spell, magician
 ---
 
-You are back to Mousewood. You have the ghostly key. [Find out where it fits to find more.](003-key.md)
+You are back to Mousewood, for the second time.
+You have a ghostly key. [Find out where it fits to find more.](003-key.md)
 
 # I found him
 And you [woke him](005-magician/index.md)?
