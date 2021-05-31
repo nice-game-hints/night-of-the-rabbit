@@ -15,12 +15,12 @@ Glownuts. [You should get one for yourself.](../060-glownut.md)
 Great! Now spill the juice from the glownut on the branch to get more light there.
 
 # The glownut is too heavy
-You need to improvise to get the glownut juice spilled on the branch.
+Maybe you could find something with more _force_ to break the glownut on the branch.
 
-# How?
+# Any more hints?
 When you look from the top of the town hall into the view below. What do you see? That view has the answer.
 
-# Hmm.. I see the city wall?
+# Hmm.. I see the city wall? What else?
 The city wall, yes. And one of the _cannons_ guarding the city.
 
 # Tell me what to do with the cannon
